@@ -30,7 +30,7 @@ params:
   # Site location
   location: Los Angeles, CA
   # Site avatar
-  avatar: img/avatar.jpg
+  avatar: img/profile.png
   # Site organization
   organization: UCLA
   # Site role
@@ -55,6 +55,12 @@ params:
       icon_pack: fas
       link: /Resume_UCB.pdf
       label: Resume
+  # Logo settings
+  logo:
+    url: img/profile.png
+    width: 50
+    height: 50
+    alt: Wei Lin Chen
 
 # Menu items
 menu:

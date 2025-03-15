@@ -3,6 +3,10 @@ title: "Wei Lin Chen"
 subtitle: "Statistics & Data Science Student at UCLA"
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/img/profile.png" alt="Wei Lin Chen" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</div>
+
 ## Welcome to My Personal Website
 
 Hello! I'm Wei Lin Chen, a senior student studying Statistics and Data Science at UCLA. I'm passionate about extracting insights from data and applying statistical methods to solve real-world problems.
