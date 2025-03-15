@@ -1,6 +1,6 @@
 baseURL: /
 title: Wei Lin Chen's Personal Website
-theme: github.com/wowchemy/wowchemy-hugo-themes
+theme: hugo-lithium
 buildDrafts: false
 buildFuture: false
 buildExpired: false
