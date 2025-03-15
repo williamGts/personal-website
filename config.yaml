@@ -1,41 +1,73 @@
-baseurl: /
-languageCode: en-US
-title: A Hugo website
-theme: hugo-lithium
-ignoreFiles:
-  - \.Rmd$
-  - \.Rmarkdown$
-  - _cache$
-permalinks:
-  post: /:year/:month/:day/:slug/
+baseURL: /
+title: Wei Lin Chen's Personal Website
+theme: github.com/wowchemy/wowchemy-hugo-themes
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Site settings
+enableEmoji: true
+languageCode: en-us
+defaultContentLanguage: en
+hasCJKLanguage: false
+
+# Site parameters
+params:
+  # Site title
+  title: Wei Lin Chen
+  # Site subtitle
+  subtitle: Statistics & Data Science
+  # Site description
+  description: Personal website showcasing my projects and experience in Statistics and Data Science
+  # Site keywords
+  keywords: [statistics, data science, portfolio, projects]
+  # Site author
+  author: Wei Lin Chen
+  # Site language
+  language: en
+  # Site contact email
+  email: your.email@example.com
+  # Site location
+  location: Berkeley, CA
+  # Site avatar
+  avatar: img/avatar.jpg
+  # Site organization
+  organization: UC Berkeley
+  # Site role
+  role: Senior Student in Statistics & Data Science
+  # Site bio
+  bio: Senior student studying Statistics and Data Science with a passion for data analysis and visualization.
+  # Site interests
+  interests:
+    - Data Analysis
+    - Statistical Modeling
+    - Machine Learning
+    - Data Visualization
+  # Site social links
+  social:
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/williamGts
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/wei-lin-chen-685259346
+    - icon: file-pdf
+      icon_pack: fas
+      link: Resume_UCB.pdf
+      label: Resume
+
+# Menu items
 menu:
   main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Projects
+      url: /project/
+      weight: 2
     - name: About
       url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
-params:
-  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
-  MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
-  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
-  highlightjsLang:
-    - r
-    - yaml
-  highlightjsTheme: github
-  highlightjsVersion: 9.12.0
-  logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: yes
-  highlight:
-    codeFences: no
+      weight: 3
+    - name: Resume
+      url: Resume_UCB.pdf
+      weight: 4

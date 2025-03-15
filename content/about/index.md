@@ -5,35 +5,31 @@ type: page
 
 ## Welcome to my website!
 
-I am a passionate professional with expertise in various fields. This website serves as a platform to showcase my work, share my experiences, and connect with others in my field.
+I am Wei Lin Chen, a senior student studying Statistics and Data Science at UC Berkeley. This website serves as a platform to showcase my work, share my experiences, and connect with professionals in the field.
 
 ## My Background
 
-[Add your background information here]
+I am passionate about extracting meaningful insights from data and using statistical methods to solve real-world problems. My academic journey has equipped me with strong analytical skills and a deep understanding of statistical concepts and data science techniques.
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-
-## Experience
-
-### Current Position
-- Company/Organization
-- Role
-- Duration
-- Key responsibilities and achievements
-
-### Previous Positions
-[Add your previous positions here]
+- Statistical Analysis and Modeling
+- Data Visualization
+- Machine Learning
+- R Programming
+- Python
+- SQL
+- Data Cleaning and Preprocessing
+- Hypothesis Testing
 
 ## Education
 
-- Degree
-- Institution
-- Year
+- Bachelor's Degree in Statistics and Data Science
+- University of California, Berkeley
+- Expected Graduation: 2024
 
 ## Get in Touch
 
-Feel free to reach out to me through the contact page or connect with me on social media. 
+Feel free to reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/wei-lin-chen-685259346) or check out my [GitHub repositories](https://github.com/williamGts) to see my projects.
+
+You can also download my [resume](../Resume_UCB.pdf) to learn more about my experience and qualifications. 
