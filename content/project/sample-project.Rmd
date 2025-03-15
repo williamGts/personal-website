@@ -1,0 +1,36 @@
+---
+title: "Sample Project"
+date: "2024-03-20"
+output: html_document
+---
+
+## Project Overview
+
+This is a sample project page. You can use this template to showcase your other projects.
+
+## Project Details
+
+### What I Did
+- Point 1
+- Point 2
+- Point 3
+
+### Technologies Used
+- Technology 1
+- Technology 2
+- Technology 3
+
+### Results
+[Add your project results here]
+
+## Code Example
+
+```r
+# Add your code example here
+library(tidyverse)
+data <- read_csv("data.csv")
+```
+
+## Learn More
+
+[Add links to project resources, GitHub repository, or live demo]
