@@ -4,7 +4,7 @@ subtitle: "Statistics & Data Science Student at UCLA"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/img/profile.png" alt="Wei Lin Chen" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <img src="/img/profile.jpg" alt="Wei Lin Chen" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 ## Welcome to My Personal Website

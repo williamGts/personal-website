@@ -30,7 +30,7 @@ params:
   # Site location
   location: Los Angeles, CA
   # Site avatar
-  avatar: img/profile.png
+  avatar: img/profile.jpg
   # Site organization
   organization: UCLA
   # Site role
@@ -57,7 +57,7 @@ params:
       label: Resume
   # Logo settings
   logo:
-    url: img/profile.png
+    url: img/profile.jpg
     width: 50
     height: 50
     alt: Wei Lin Chen
